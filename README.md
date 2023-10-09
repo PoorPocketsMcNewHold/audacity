@@ -50,7 +50,7 @@
 ### <a href="https://tenacityaudio.org/">Tenacity</a> (FOSS Audacity fork)
 
 1. Open Preferences and choose Custom theme under Interface tab. Close the preferences to update the changes.
-2. Drop chosen the ImageCache.png from to `%appdata%/tenacity/Theme` folder (Windows) or `~/.tenacity-data/Theme` (Linux) (or `~/.var/app/org.tenacityaudio.Tenacity/config/Theme/` if using Flatpak's) or `~/Library/Application Support/tenacity/Theme` (Mac),
+2. Drop chosen the ImageCache.png from to `%appdata%/tenacity/Theme` folder (Windows) or `$XDG_DATA_HOME/tenacity/Theme` (Linux) (or `~/.var/app/org.tenacityaudio.Tenacity/config/Theme/` if using Flatpak's) or `~/Library/Application Support/tenacity/Theme` (Mac),
 3. Open the Preferences once again and choose Theme.
 4. Then, click Load Theme Cache to load the theme from the folder.
 
