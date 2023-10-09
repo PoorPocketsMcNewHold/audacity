@@ -44,7 +44,7 @@
  <!-- And the secret not-that-official OLED variant in - 🌷 [OLED](./theme/OLED/ImageCache.png?raw=1") -->
 ### <a href="https://www.audacityteam.org/">Audacity</a>
 
-2. [Drop chosen the ImageCache.png from to `%appdata%/audacity/Theme` folder (Windows) or `~/.audacity-data/Theme` (Linux) or `~/Library/Application Support/audacity/Theme` (Mac),](https://support.audacityteam.org/basics/customizing-audacity/using-themes)
+2. Drop chosen the ImageCache.png into `%appdata%/audacity/Theme/custom` (Windows) or `~/.audacity-data/Theme/custom` (Linux) or `~/Library/Application Support/audacity/Theme/custom` (Mac)
 3. Open Preferences and choose Custom theme under Interface tab.
 
 ### <a href="https://tenacityaudio.org/">Tenacity</a> (FOSS Audacity fork)
