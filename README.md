@@ -39,8 +39,8 @@
 1. Download your preferred flavour:
 - 🌻 [Latte](./themes/Latte/ImageCache.png?raw=1)
 - 🪴 [Frappe](./themes/Frappe/ImageCache.png?raw=1)
-- 🌺 [Macchiato](./theme/Macchiato/ImageCache.png?raw=1)
-- 🌿 [Mocha](./theme/Mocha/ImageCache.png?raw=1)
+- 🌺 [Macchiato](./themes/Macchiato/ImageCache.png?raw=1)
+- 🌿 [Mocha](./themes/Mocha/ImageCache.png?raw=1)
  <!-- And the secret not-that-official OLED variant in - 🌷 [OLED](./theme/OLED/ImageCache.png?raw=1") -->
 ### <a href="https://www.audacityteam.org/">Audacity</a>
 
