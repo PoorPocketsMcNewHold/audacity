@@ -44,13 +44,13 @@
  <!-- And the secret not-that-official OLED variant in - 🌷 [OLED](./theme/OLED/ImageCache.png?raw=1") -->
 ### <a href="https://www.audacityteam.org/">Audacity</a>
 
-2. [Drop chosen the ImageCache.png from to `%appdata%/audacity/Theme` folder (Windows) or `~/.audacity-data/Theme` (Linux) or `~/Library/Application Support/audacity/Theme` (Mac),](https://support.audacityteam.org/basics/customizing-audacity/using-themes)
+2. [Drop chosen the ImageCache.png from to `%appdata%/audacity/Theme` folder (Windows) or `$XDG_DATA_HOME/audacity/Theme` (Linux) or `~/Library/Application Support/audacity/Theme` (Mac),](https://support.audacityteam.org/basics/customizing-audacity/using-themes)
 3. Open Preferences and choose Custom theme under Interface tab.
 
 ### <a href="https://tenacityaudio.org/">Tenacity</a> (FOSS Audacity fork)
 
 1. Open Preferences and choose Custom theme under Interface tab. Close the preferences to update the changes.
-2. Drop chosen the ImageCache.png from to `%appdata%/tenacity/Theme` folder (Windows) or `~/.tenacity-data/Theme` (Linux) (or `~/.var/app/org.tenacityaudio.Tenacity/config/Theme/` if using Flatpak's) or `~/Library/Application Support/tenacity/Theme` (Mac),
+2. Drop chosen the ImageCache.png from to `%appdata%/tenacity/Theme` folder (Windows) or `$XDG_DATA_HOME/tenacity/Theme` (Linux) (or `~/.var/app/org.tenacityaudio.Tenacity/config/Theme/` if using Flatpak's) or `~/Library/Application Support/tenacity/Theme` (Mac),
 3. Open the Preferences once again and choose Theme.
 4. Then, click Load Theme Cache to load the theme from the folder.
 
